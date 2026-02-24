@@ -1,0 +1,1066 @@
+{
+    "accessors": [
+        {
+            "bufferView": 1,
+            "byteOffset": 0,
+            "componentType": 5126,
+            "count": 19179,
+            "max": [
+                1088.0,
+                1600.0,
+                980.0
+            ],
+            "min": [
+                -1048.0,
+                -1632.0,
+                -256.0
+            ],
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 12,
+            "componentType": 5126,
+            "count": 19179,
+            "type": "VEC3"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 24,
+            "componentType": 5126,
+            "count": 19179,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 1,
+            "byteOffset": 32,
+            "componentType": 5126,
+            "count": 19179,
+            "type": "VEC2"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 0,
+            "componentType": 5125,
+            "count": 1557,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 6228,
+            "componentType": 5125,
+            "count": 162,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 6876,
+            "componentType": 5125,
+            "count": 453,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 8688,
+            "componentType": 5125,
+            "count": 336,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 10032,
+            "componentType": 5125,
+            "count": 1935,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 17772,
+            "componentType": 5125,
+            "count": 204,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 18588,
+            "componentType": 5125,
+            "count": 60,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 18828,
+            "componentType": 5125,
+            "count": 36,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 18972,
+            "componentType": 5125,
+            "count": 24,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 19068,
+            "componentType": 5125,
+            "count": 12,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 19116,
+            "componentType": 5125,
+            "count": 180,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 19836,
+            "componentType": 5125,
+            "count": 9318,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 57108,
+            "componentType": 5125,
+            "count": 2511,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 67152,
+            "componentType": 5125,
+            "count": 657,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 69780,
+            "componentType": 5125,
+            "count": 4908,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 89412,
+            "componentType": 5125,
+            "count": 171,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 90096,
+            "componentType": 5125,
+            "count": 1107,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 94524,
+            "componentType": 5125,
+            "count": 5229,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 115440,
+            "componentType": 5125,
+            "count": 2760,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 126480,
+            "componentType": 5125,
+            "count": 99,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 126876,
+            "componentType": 5125,
+            "count": 966,
+            "type": "SCALAR"
+        },
+        {
+            "bufferView": 0,
+            "byteOffset": 130740,
+            "componentType": 5125,
+            "count": 180,
+            "type": "SCALAR"
+        }
+    ],
+    "asset": {
+        "generator": "bsp-converter by lewa_j v0.12 - 2022",
+        "version": "2.0"
+    },
+    "bufferViews": [
+        {
+            "buffer": 0,
+            "byteLength": 131460,
+            "byteOffset": 767160,
+            "target": 34963
+        },
+        {
+            "buffer": 0,
+            "byteLength": 767160,
+            "byteOffset": 0,
+            "byteStride": 40,
+            "target": 34962
+        }
+    ],
+    "buffers": [
+        {
+            "byteLength": 898620,
+            "uri": "awp_india_ks.bin"
+        }
+    ],
+    "images": [
+        {
+            "uri": "textures/black.png"
+        },
+        {
+            "uri": "textures/c3a2_light.png"
+        },
+        {
+            "uri": "textures/clip.png"
+        },
+        {
+            "uri": "textures/generic035.png"
+        },
+        {
+            "uri": "textures/generic039.png"
+        },
+        {
+            "uri": "textures/metal_bord01.png"
+        },
+        {
+            "uri": "textures/sky.png"
+        },
+        {
+            "uri": "textures/xcrate2c.png"
+        },
+        {
+            "uri": "textures/11.png"
+        },
+        {
+            "uri": "textures/123.png"
+        },
+        {
+            "uri": "textures/2.png"
+        },
+        {
+            "uri": "textures/22.png"
+        },
+        {
+            "uri": "textures/aaad.png"
+        },
+        {
+            "uri": "textures/in_19.png"
+        },
+        {
+            "uri": "textures/in_19b.png"
+        },
+        {
+            "uri": "textures/in_19c.png"
+        },
+        {
+            "uri": "textures/in_24.png"
+        },
+        {
+            "uri": "textures/in_24c.png"
+        },
+        {
+            "uri": "textures/in_24d.png"
+        },
+        {
+            "uri": "textures/in_27.png"
+        },
+        {
+            "uri": "textures/in_c02.png"
+        },
+        {
+            "uri": "textures/in_door01.png"
+        },
+        {
+            "uri": "textures/in_door02.png"
+        },
+        {
+            "uri": "textures/kosova.png"
+        },
+        {
+            "uri": "textures/NULL.png"
+        },
+        {
+            "uri": "awp_india_ks_lightmap0.png"
+        }
+    ],
+    "materials": [
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "black",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 0
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "c3a2_light",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 1
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "clip",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 2
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "generic035",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 3
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "generic039",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 4
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "metal_bord01",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 5
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "sky",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 6
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "xcrate2c",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 7
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "11",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 8
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "123",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 9
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "2",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 10
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "22",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 11
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "aaad",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 12
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_19",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 13
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_19b",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 14
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_19c",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 15
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_24",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 16
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_24c",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 17
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_24d",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 18
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_27",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 19
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_c02",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 20
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_door01",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 21
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "in_door02",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 22
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "kosova",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 23
+                },
+                "metallicFactor": 0
+            }
+        },
+        {
+            "extensions": {
+                "EXT_materials_lightmap": {
+                    "lightmapTexture": {
+                        "index": 25,
+                        "texCoord": 1
+                    }
+                }
+            },
+            "name": "NULL",
+            "pbrMetallicRoughness": {
+                "baseColorTexture": {
+                    "index": 24
+                },
+                "metallicFactor": 0
+            }
+        }
+    ],
+    "meshes": [
+        {
+            "name": "awp_india_ks_model0_mesh",
+            "primitives": [
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 4,
+                    "material": 0
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 5,
+                    "material": 1
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 6,
+                    "material": 3
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 7,
+                    "material": 4
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 8,
+                    "material": 5
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 9,
+                    "material": 7
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 10,
+                    "material": 8
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 11,
+                    "material": 9
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 12,
+                    "material": 10
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 13,
+                    "material": 11
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 14,
+                    "material": 12
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 15,
+                    "material": 13
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 16,
+                    "material": 14
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 17,
+                    "material": 15
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 18,
+                    "material": 16
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 19,
+                    "material": 17
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 20,
+                    "material": 18
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 21,
+                    "material": 19
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 22,
+                    "material": 20
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 23,
+                    "material": 21
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 24,
+                    "material": 22
+                },
+                {
+                    "attributes": {
+                        "NORMAL": 1,
+                        "POSITION": 0,
+                        "TEXCOORD_0": 2,
+                        "TEXCOORD_1": 3
+                    },
+                    "indices": 25,
+                    "material": 23
+                }
+            ]
+        }
+    ],
+    "nodes": [
+        {
+            "children": [
+                1
+            ],
+            "name": "awp_india_ks",
+            "rotation": [
+                -0.7071067690849304,
+                0,
+                0,
+                0.7071067690849304
+            ],
+            "scale": [
+                0.03,
+                0.03,
+                0.03
+            ]
+        },
+        {
+            "mesh": 0,
+            "name": "*0"
+        }
+    ],
+    "scene": 0,
+    "scenes": [
+        {
+            "nodes": [
+                0
+            ]
+        }
+    ],
+    "textures": [
+        {
+            "source": 0
+        },
+        {
+            "source": 1
+        },
+        {
+            "source": 2
+        },
+        {
+            "source": 3
+        },
+        {
+            "source": 4
+        },
+        {
+            "source": 5
+        },
+        {
+            "source": 6
+        },
+        {
+            "source": 7
+        },
+        {
+            "source": 8
+        },
+        {
+            "source": 9
+        },
+        {
+            "source": 10
+        },
+        {
+            "source": 11
+        },
+        {
+            "source": 12
+        },
+        {
+            "source": 13
+        },
+        {
+            "source": 14
+        },
+        {
+            "source": 15
+        },
+        {
+            "source": 16
+        },
+        {
+            "source": 17
+        },
+        {
+            "source": 18
+        },
+        {
+            "source": 19
+        },
+        {
+            "source": 20
+        },
+        {
+            "source": 21
+        },
+        {
+            "source": 22
+        },
+        {
+            "source": 23
+        },
+        {
+            "source": 24
+        },
+        {
+            "source": 25
+        }
+    ]
+}
