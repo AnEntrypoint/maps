@@ -1,22 +1,9 @@
 import bpy, sys, os, glob
-from pathlib import Path
 
 script_dir = os.path.dirname(os.path.abspath(__file__))
 input_dir = os.path.join(script_dir, "input")
 output_dir = os.path.join(script_dir, "output")
 os.makedirs(output_dir, exist_ok=True)
-
-blender_addons = Path(bpy.utils.user_resource('SCRIPTS')) / "addons"
-gltf_importer_path = blender_addons / "io_scene_gltf2"
-
-if not gltf_importer_path.exists():
-    print(f"ERROR: glTF importer not found at {gltf_importer_path}")
-    sys.exit(1)
-
-if str(gltf_importer_path.parent) not in sys.path:
-    sys.path.insert(0, str(gltf_importer_path.parent))
-
-from io_scene_gltf2.importer import Glb
 
 glb_files = glob.glob(os.path.join(input_dir, "*.glb"))
 if not glb_files:
@@ -30,9 +17,11 @@ for glb_file in glb_files:
     print(f"Processing: {glb_file}")
     bpy.ops.wm.read_factory_settings(use_empty=True)
 
-    importer = Glb(glb_file)
-    importer.read()
-    importer.import_scene()
+    try:
+        bpy.ops.import_scene.gltf(filepath=glb_file)
+    except RuntimeError as e:
+        print(f"ERROR: Failed to import {glb_file}: {e}")
+        sys.exit(1)
 
     bpy.ops.export_scene.gltf(
         filepath=output_path,
