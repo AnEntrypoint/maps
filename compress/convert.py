@@ -6,7 +6,7 @@ input_dir = os.path.join(script_dir, "input")
 output_dir = os.path.join(script_dir, "output")
 os.makedirs(output_dir, exist_ok=True)
 
-blender_addons = Path(bpy.utils.script_path_python()) / "addons"
+blender_addons = Path(bpy.utils.user_resource('SCRIPTS')) / "addons"
 gltf_importer_path = blender_addons / "io_scene_gltf2"
 
 if not gltf_importer_path.exists():
