@@ -15,7 +15,12 @@ for glb_path in glb_files:
     glb_path = os.path.join(output_dir, name + ".glb")
 
     bpy.ops.wm.read_factory_settings(use_empty=True)
-    bpy.ops.import_scene.gltf(filepath=glb_path)
+    bpy.ops.import_scene.gltf(
+        filepath=glb_path,
+        directory=os.path.dirname(glb_path),
+        files=[{"name": os.path.basename(glb_path)}],
+        loglevel=20
+    )
 
     bpy.ops.export_scene.gltf(
         filepath=glb_path,
