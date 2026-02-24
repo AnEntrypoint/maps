@@ -12,3 +12,6 @@ CMakeSettings.json
 _deps
 out
 .vs
+.glootie-stop-verified
+
+.code-search/
